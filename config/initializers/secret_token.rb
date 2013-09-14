@@ -24,4 +24,4 @@ def secure_token
   end
 end
 
-Runewars::Application.config.secret_key_base = secure_token
+Artco::Application.config.secret_key_base = secure_token

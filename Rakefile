@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Runewars::Application.load_tasks
+Artco::Application.load_tasks
